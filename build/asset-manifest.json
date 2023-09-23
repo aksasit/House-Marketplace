@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5e4291a.chunk.css",
+    "main.js": "/static/js/main.14de3125.chunk.js",
+    "main.js.map": "/static/js/main.14de3125.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9c035ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9c035ac.js.map",
+    "static/css/2.77e979dc.chunk.css": "/static/css/2.77e979dc.chunk.css",
+    "static/js/2.52d85834.chunk.js": "/static/js/2.52d85834.chunk.js",
+    "static/js/2.52d85834.chunk.js.map": "/static/js/2.52d85834.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.77e979dc.chunk.css.map": "/static/css/2.77e979dc.chunk.css.map",
+    "static/css/main.b5e4291a.chunk.css.map": "/static/css/main.b5e4291a.chunk.css.map",
+    "static/js/2.52d85834.chunk.js.LICENSE.txt": "/static/js/2.52d85834.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/personIcon.60c17ce3.svg",
+    "static/media/bathtubIcon.b95c8ddb.svg": "/static/media/bathtubIcon.b95c8ddb.svg",
+    "static/media/bedIcon.eefa75b1.svg": "/static/media/bedIcon.eefa75b1.svg",
+    "static/media/deleteIcon.a53e2203.svg": "/static/media/deleteIcon.a53e2203.svg",
+    "static/media/editIcon.9b527df0.svg": "/static/media/editIcon.9b527df0.svg",
+    "static/media/exploreIcon.46f5bb69.svg": "/static/media/exploreIcon.46f5bb69.svg",
+    "static/media/googleIcon.a2a9c863.svg": "/static/media/googleIcon.a2a9c863.svg",
+    "static/media/homeIcon.09f28a71.svg": "/static/media/homeIcon.09f28a71.svg",
+    "static/media/keyboardArrowRightIcon.8cee54be.svg": "/static/media/keyboardArrowRightIcon.8cee54be.svg",
+    "static/media/localOfferIcon.2f90605b.svg": "/static/media/localOfferIcon.2f90605b.svg",
+    "static/media/personOutlineIcon.f67a0190.svg": "/static/media/personOutlineIcon.f67a0190.svg",
+    "static/media/rentCategoryImage.cd9f0150.jpg": "/static/media/rentCategoryImage.cd9f0150.jpg",
+    "static/media/sellCategoryImage.c4d28ee7.jpg": "/static/media/sellCategoryImage.c4d28ee7.jpg",
+    "static/media/shareIcon.cbe96fad.svg": "/static/media/shareIcon.cbe96fad.svg",
+    "static/media/visibilityIcon.d42e2dff.svg": "/static/media/visibilityIcon.d42e2dff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c035ac.js",
+    "static/css/2.77e979dc.chunk.css",
+    "static/js/2.52d85834.chunk.js",
+    "static/css/main.b5e4291a.chunk.css",
+    "static/js/main.14de3125.chunk.js"
+  ]
+}
